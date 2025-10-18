@@ -12,4 +12,7 @@
 
 ## Isi .gitignore
 .env
+
 ## Remote Repository
+origin	git@github.com:diandraabyan29-beep/tugas_harian.git (fetch)
+origin	git@github.com:diandraabyan29-beep/tugas_harian.git (push)
